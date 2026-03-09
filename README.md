@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name]! 👋 
+# Hi there, I'm RAJEEV ! 👋 
 
 ### 🚀 First-Year BTech Student | Tech Explorer | Lifelong Learner
 
-Welcome to my digital playground! I am a first-year student at **[INDIAN INSTITUTE OF TECHNOLOGY, DELHI]** currently navigating the exciting world of technology. I’m a curious soul who loves to experiment, break things (and occasionally fix them), and learn new skills from scratch.
+Welcome to my digital playground! I am a first-year student at **INDIAN INSTITUTE OF TECHNOLOGY, DELHI** currently navigating the exciting world of technology. I’m a curious soul who loves to experiment, break things (and occasionally fix them), and learn new skills from scratch.
 
 ---
 
